@@ -10,8 +10,10 @@ redirect_from:
 
 I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ). Prior to this, I received my bachelor's degree in Computer Science & Mathematics and Applied Mathematics from University of Electronic Science and Technology of China, where I worked as a research intern under the supervision of [Prof. Wen Li](https://wenli-vision.github.io/).
 
-My research interests primarily revolve around **(1)** interpretability and representation capability of deep neural networks
-(e.g., sparsity in large language models), **(2)** fundamental structures of efficient neural network design (e.g., mixture of experts), and **(3)** applications of artificial intelligence in other research areas (e.g., AI for biology, psychology). Currently, I am engaged in the research on fundational Large Language Models (LLMs), with a specific focus on designing efficient and effective structures.
+I am dedicated to uncovering the intrinsic properties of neural networks with theoretical guarantees, aiming to develop robust and effective systems. My focus is on the quality and broader impacts of my work, rather than the mere quantity of top-conference papers. **My research interests primarily revolve around:**
+1. Representation capabilities of neural networks (e.g. interpretability, robustness, sparsity, etc.).
+2. Fundamental structural designs of neural networks regarding efficiency and effectiveness (e.g. Mixture of Experts, Graph Neural Networks).
+3. Applications of artificial intelligence in the development of scientific research (e.g. AI for physics, biology, psychology, etc.).
 
 <span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me.** </span>
 
