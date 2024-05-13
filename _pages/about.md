@@ -23,7 +23,7 @@ I am dedicated to uncovering the intrinsic properties of neural networks with th
 ## News
 
 - [2024/05] One paper is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
-- [2023/12] We release [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe), a series of open-sourced Mixture-of-Expert (MoE) models.
+- [2023/12] Release [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe), a series of open-sourced Mixture-of-Experts models.
 - [2023/05] One paper is accepted by [ACL 2023](https://2023.aclweb.org/).
 - [2022/10] One paper is accepted by [EMNLP 2022](https://2022.emnlp.org/).
 
