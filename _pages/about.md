@@ -65,11 +65,10 @@ I am dedicated to uncovering the intrinsic properties of neural networks with th
 1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, ***A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer***, The 41st International Conference on Machine Learning (ICML 2024). [[Paper](https://arxiv.org/abs/2402.02464)]
 2. Shwai He, Liang Ding, **Daize Dong**, Boan Liu, Fuqiang Yu, Dacheng Tao, ***PAD-Net: An Efficient Framework for Dynamic Networks***, Proceedings of The 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023). [[Paper](https://aclanthology.org/2023.acl-long.803.pdf)]
 3. Shwai He, Liang Ding, **Daize Dong**, Miao Zhang, Dacheng Tao, ***SparseAdapter: An Easy Approach for Improving the Parameter-Efficiency of Adapters***, Findings of The 2022 Conference on Empirical Methods in Natural Language Processing (EMNLP 2022). [[Paper](https://aclanthology.org/2022.findings-emnlp.160.pdf)]
-4. Shwai He, Chenbo Jiang, **Daize Dong**, Liang Ding, ***SD-Conv: Towards the Parameter-Efficiency of Dynamic Convolution***, IEEE/CVF Winter Conference on Applications of Computer Vision, 2023 (WACV 2023). [[Paper](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)]
 
 
 
-## Projects
+## Selected Projects
 
 1. ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Technical Report](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf)]
 
