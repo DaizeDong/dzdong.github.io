@@ -43,7 +43,7 @@ I am dedicated to uncovering the intrinsic properties of neural networks with th
 
 ## Selected Projects
 
-1. ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Technical Report](https://github.com/pjlab-sys4nlp/llama-moe/blob/main/docs/LLaMA_MoE.pdf)]
+1. ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Paper](https://arxiv.org/abs/2406.16554)] [[Code](https://github.com/pjlab-sys4nlp/llama-moe)]
 
 
 
