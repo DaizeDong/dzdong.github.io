@@ -8,12 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a research assistant at Shanghai Artificial Intelligence Laboratory, supervised by [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ). I also hold a research assistant position at Westlake University, working closely with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ). Prior to this, I received my bachelor's degree in Computer Science & Mathematics and Applied Mathematics from University of Electronic Science and Technology of China, where I worked as a research intern under the supervision of [Prof. Wen Li](https://wenli-vision.github.io/).
+I'm a researcher in deep learning, now working as a research assistant at Westlake University with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ), researching on AI related molecule and protein design.
+Prior to this, I received my bachelor's degree in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
+I also spent a year at Shanghai Artificial Intelligence Laboratory with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ), researching on the Mixture of Experts (MoE) in large language models.
 
-I am dedicated to uncovering the intrinsic properties of neural networks with theoretical guarantees, aiming to develop interpretable and effective AI systems. **My research interests primarily revolve around:**
-1. Understanding the representation abilities (e.g. interpretability and robustness) and inherent statistical features (e.g. sparsity and scaling property) of neural networks.
-2. Investigating neural networks' fundamental architectures to enhance efficiency (e.g. Mixture of Experts) and mathematical completeness (e.g. Graph Neural Networks).
-3. Leveraging artificial intelligence to promote the scientific researches (e.g. AI for physics, biology, psychology).
+My research topic covers across domains like ML, NLP and CV, and now I am dedicated to uncovering the intrinsic properties of neural networks with theoretical guarantees.
+My primary research interests include but not limited to:
+1. **Representation Learning** on enhancing the neural networks through representational perspectives (e.g. degradation, collapse).
+2. **Neural Network Architecture** that discovers efficient and mathematically complete structures (e.g. MoE, GNN).
+3. **AI for Biology / Psychology** to promote the scientific progress of human beings.
 
 <!-- My focus is on the quality and broader impacts of my work, rather than the mere quantity of top-conference papers. -->
 
