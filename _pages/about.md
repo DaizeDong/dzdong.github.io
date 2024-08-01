@@ -20,7 +20,7 @@ My primary research interests include but not limited to:
 
 <!-- My focus is on the quality and broader impacts of my work, rather than the mere quantity of top-conference papers. -->
 
-<span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me.** </span>
+<!-- <span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me.** </span> -->
 
 
 ## News
