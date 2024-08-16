@@ -12,11 +12,11 @@ I'm a researcher in deep learning, now working as a research assistant at Westla
 Prior to this, I received my bachelor's degree in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
 I also spent a year at Shanghai Artificial Intelligence Laboratory with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ), researching on the Mixture of Experts (MoE) in large language models.
 
-My research topic covers across domains like ML, NLP and CV, and now I am dedicated to uncovering the intrinsic properties of neural networks with theoretical guarantees.
-My primary research interests include but not limited to:
-1. **Representation Learning** on enhancing the neural networks through representational perspectives (e.g. degradation, collapse).
-2. **Neural Network Architecture** that discovers efficient and mathematically complete structures (e.g. MoE, GNN).
-3. **AI for Biology / Psychology** to promote the scientific progress of human beings.
+My research spans across domains such as ML, NLP, and CV, and I am currently focused on uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
+
+1. **Representation Learning:** Enhancing abstract data representations to improve generalizability, interpretability, and expand model capacity, thereby avoiding degradation.
+2. **Neural Network Architecture:** Discovering general structures to enhance model efficiency or achieve mathematical completeness (e.g., MoE, GNN).
+3. **AI for Biology / Psychology:** Leveraging AI to advance scientific progress of human beings.
 
 <!-- My focus is on the quality and broader impacts of my work, rather than the mere quantity of top-conference papers. -->
 
