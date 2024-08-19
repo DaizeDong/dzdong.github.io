@@ -9,14 +9,14 @@ redirect_from:
 ---
 
 I'm a researcher in deep learning, now working as a research assistant at Westlake University with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ), researching on AI related molecule and protein design.
-Prior to this, I received my bachelor's degree in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
-I also spent a year at Shanghai Artificial Intelligence Laboratory with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ), researching on the Mixture of Experts (MoE) in large language models.
+Previously, I spent a year at Shanghai Artificial Intelligence Laboratory with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ), researching on the Mixture of Experts (MoE) in large language models.
+Before that, I received my BS in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
 
-My research spans across domains such as ML, NLP, and CV, and I am currently focused on uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
+My research spans across domains such as ML, NLP, and CV, and I have a strong passion for uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
 
 1. **Representation Learning:** Enhancing abstract data representations to improve generalizability, interpretability, and expand model capacity, thereby avoiding degradation.
 2. **Neural Network Architecture:** Discovering general structures to enhance model efficiency or achieve mathematical completeness (e.g., MoE, GNN).
-3. **AI for Biology / Psychology:** Leveraging AI to advance scientific progress of human beings.
+3. **AI for Biology / Psychology:** Leveraging AI to advance the scientific progress of human beings.
 
 <!-- My focus is on the quality and broader impacts of my work, rather than the mere quantity of top-conference papers. -->
 
@@ -44,9 +44,9 @@ My research spans across domains such as ML, NLP, and CV, and I am currently foc
 
 
 
-## Selected Projects
+## Projects
 
-1. ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Paper](https://arxiv.org/abs/2406.16554)] [[Code](https://github.com/pjlab-sys4nlp/llama-moe)]
+- ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Paper](https://arxiv.org/abs/2406.16554)] [[Code](https://github.com/pjlab-sys4nlp/llama-moe)]
 
 
 
