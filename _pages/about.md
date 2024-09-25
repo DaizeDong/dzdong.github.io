@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher in deep learning, now working as a research assistant at Westlake University with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ), researching on AI related molecule and protein design.
-Previously, I spent a year at Shanghai Artificial Intelligence Laboratory with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ), researching on the Mixture of Experts (MoE) in large language models.
+I'm a researcher at Zhipu AI, now specializing in the structure and training techniques for large language models.
+Previously, I spent a year as a research assistant with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ) at Shanghai Artificial Intelligence Laboratory, researching on the Mixture of Experts (MoE) in large language models.
+At the same time, I also collaborated with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ) at Westlake University, researching on AI related molecule and protein design.
 Before that, I received my BS in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
 
 My research spans across domains such as ML, NLP, and CV, and I have a strong passion for uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
@@ -25,16 +26,17 @@ My research spans across domains such as ML, NLP, and CV, and I have a strong pa
 
 ## News
 
+- [2024/09] One paper ([LLaMA-MoE](https://arxiv.org/abs/2406.16554)) is accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - [2024/05] One paper ([GraphsGPT](https://arxiv.org/abs/2402.02464)) is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - [2024/04] One paper ([iDAT](https://arxiv.org/abs/2403.15750)) is accepted by [ICME 2024](https://icml.cc/Conferences/2024) as oral.
-- [2023/12] Open-sourced project [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe) is released.
+- [2023/12] Open-sourced project [LLaMA-MoE](https://github.com/pjlab-sys4nlp/llama-moe) is released!
 - [2023/05] One paper ([PAD-Net](https://aclanthology.org/2023.acl-long.803.pdf)) is accepted by [ACL 2023](https://2023.aclweb.org/).
 - [2022/10] One paper ([SparseAdapter](https://aclanthology.org/2022.findings-emnlp.160.pdf)) is accepted by [EMNLP 2022](https://2022.emnlp.org/).
 - [2022/08] One paper ([SD-Conv](https://openaccess.thecvf.com/content/WACV2023/papers/He_SD-Conv_Towards_the_Parameter-Efficiency_of_Dynamic_Convolution_WACV_2023_paper.pdf)) is accepted by [WACV 2023](https://wacv2023.thecvf.com/).
 
 
 
-## Selected Publications
+## Publications
 
 1. Zhangyang Gao\*, **Daize Dong**\*, Cheng Tan, Jun Xia, Bozhen Hu, Stan Z. Li, ***A Graph is Worth K Words: Euclideanizing Graph using Pure Transformer***, The 41st International Conference on Machine Learning (ICML 2024). [[Paper](https://arxiv.org/abs/2402.02464)]
 2. Jiacheng Ruan, Jingsheng Gao, Mingye Xie, **Daize Dong**, Suncheng Xiang, Ting Liu, Yuzhuo Fu, iDAT: inverse Distillation Adapter-Tuning, The 15th International Congress on Mathematical Education (ICME 2024). [[Paper](https://arxiv.org/abs/2403.15750)] **(Oral)**
@@ -46,10 +48,6 @@ My research spans across domains such as ML, NLP, and CV, and I have a strong pa
 
 ## Projects
 
-- ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***. [[Paper](https://arxiv.org/abs/2406.16554)] [[Code](https://github.com/pjlab-sys4nlp/llama-moe)]
-
-
-
-
+- Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***, The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
 
 
