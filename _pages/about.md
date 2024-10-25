@@ -11,7 +11,7 @@ redirect_from:
 I'm a researcher at Zhipu AI, now specializing in the structure and training techniques for large language models.
 Previously, I spent a year as a research assistant with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ) at Shanghai Artificial Intelligence Laboratory, researching on the Mixture of Experts (MoE) in large language models.
 At the same time, I also collaborated with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ) at Westlake University, researching on AI related molecule and protein design.
-Before that, I received my BS in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC).
+Before that, I received my BS in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC), where I worked closely with [Prof. Wen Li](https://scholar.google.com/citations?user=yjG4Eg4AAAAJ&hl).
 
 My research spans across domains such as ML, NLP, and CV, and I have a strong passion for uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
 
