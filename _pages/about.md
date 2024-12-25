@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a researcher at Zhipu AI, now specializing in the structure and training techniques for large language models.
+I'm a researcher at Zhipu AI, specializing in the structures and training algorithms for large language models.
 Previously, I spent a year as a research assistant with [Prof. Yu Cheng](https://scholar.google.com/citations?user=ORPxbV4AAAAJ) at Shanghai Artificial Intelligence Laboratory, researching the Mixture of Experts (MoE) in large language models.
 At the same time, I also collaborated with [Prof. Stan Z. Li](https://scholar.google.com/citations?user=Y-nyLGIAAAAJ) at Westlake University, researching AI-related molecule and protein design.
 Before that, I received my BS in Computer Science & Mathematics from the University of Electronic Science and Technology of China (UESTC), where I worked closely with [Prof. Wen Li](https://scholar.google.com/citations?user=yjG4Eg4AAAAJ&hl).
@@ -16,7 +16,7 @@ Before that, I received my BS in Computer Science & Mathematics from the Univers
 My research spans domains such as ML, NLP, and CV, and I have a strong passion for uncovering the intrinsic properties of neural networks with theoretical guarantees. My primary research interests include, but are not limited to:
 
 1. **Representation Learning:** Enhancing abstract data representations to improve generalizability and interpretability, thereby expanding model capacity and avoiding degradation.
-2. **Neural Network Architecture:** Discovering general structures to enhance model efficiency or achieve mathematical completeness (e.g., MoE, GNN).
+2. **Neural Network Architecture:** Discovering general structures to enhance model efficiency and achieve mathematical completeness (e.g., MoE, GNN).
 3. **AI for Biology:** Leveraging AI to advance the scientific progress of human beings.
 
 <!-- My focus is on my work's quality and broader impacts rather than the quantity of top-conference papers. -->
@@ -24,8 +24,10 @@ My research spans domains such as ML, NLP, and CV, and I have a strong passion f
 <!-- <span style="color: red"> **I am actively looking for a PhD program. If you find our research interests align or if there is potential for collaboration, please feel free to get in touch with me.** </span> -->
 
 
+
 ## News
 
+- [2024/11] Open-sourced project [LLaMA-MoE v2](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2) is released!
 - [2024/09] One paper ([LLaMA-MoE](https://arxiv.org/abs/2406.16554)) is accepted by [EMNLP 2024](https://2024.emnlp.org/).
 - [2024/05] One paper ([GraphsGPT](https://arxiv.org/abs/2402.02464)) is accepted by [ICML 2024](https://icml.cc/Conferences/2024).
 - [2024/04] One paper ([iDAT](https://arxiv.org/abs/2403.15750)) is accepted by [ICME 2024](https://icml.cc/Conferences/2024) as oral.
@@ -48,6 +50,5 @@ My research spans domains such as ML, NLP, and CV, and I have a strong passion f
 
 ## Projects
 
-- Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***, The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
-
-
+1. Tong Zhu, Xiaoye Qu, **Daize Dong**, Jiacheng Ruan, Jingqi Tong, Conghui He, Yu Cheng, ***LLaMA-MoE: Building Mixture-of-Experts from LLaMA with Continual Pre-training***, The 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024). [[Code](https://github.com/pjlab-sys4nlp/llama-moe)] [[Paper](https://arxiv.org/abs/2406.16554)]
+2. Xiaoye Qu, **Daize Dong**, Xuyang Hu, Tong Zhu, Weigao Sun, Yu Cheng, ***LLaMA-MoE v2: Exploring Sparsity of LLaMA from Perspective of Mixture-of-Experts with Post-Training**. [[Code](https://github.com/OpenSparseLLMs/LLaMA-MoE-v2)] [[Paper](https://arxiv.org/abs/2411.15708)]
